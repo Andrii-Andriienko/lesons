@@ -1,0 +1,119 @@
+@import url(reset.css);
+
+/* * {
+    color: rgb(0, 255, 21);
+}
+
+p {
+    color: blue;
+}
+
+h1 {
+    color: chocolate;
+}
+
+a {
+    color: black;
+} */
+
+.lesson {
+    color: crimson;
+}
+
+.title {
+    color: rgb(21, 225, 79);
+}
+
+#some-id {
+    color: rgb(38, 176, 119) !important;
+}
+
+[class*="tle"] {
+    color: rgb(69, 19, 170);
+}
+
+div.text {
+    color: blue;
+}
+
+.page__text.text {
+    color: rgb(28, 193, 63);
+}
+
+.title,
+.text,
+li {
+    color: rgb(209, 198, 42);
+}
+
+.lesson a {
+    color: crimson;
+}
+
+.lesson p {
+    color: crimson;
+}
+
+.lesson .blue-text {
+    color: blue;
+}
+
+.lesson * {
+    color: rgb(96, 19, 178);
+}
+
+.lesson>p {
+    color: black;
+}
+
+.lesson~p {
+    color: chartreuse;
+}
+
+.lesson+p {
+    color: aqua !important;
+}
+
+[class*="tex"] {
+    color: rgb(109, 107, 143);
+}
+
+.text {
+    color: rgb(188, 165, 129);
+}
+
+#some-id {
+    color: rgb(8, 239, 81);
+}
+
+.text {
+    color: blueviolet;
+}
+
+p {
+    color: rgb(202, 16, 134);
+}
+
+* {
+    color: blue;
+}
+
+p.text {
+    color: rgb(246, 7, 246);
+}
+
+.text {
+    color: rgba(16, 15, 15, 0.848);
+}
+
+p {
+    color: blue;
+}
+
+.page__text.text {
+    color: rgb(80, 19, 194);
+}
+
+.page__text .text {
+    color: rgb(207, 236, 13);
+}
